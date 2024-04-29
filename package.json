@@ -1,0 +1,19 @@
+{
+    "dependencies": {
+        "@google/generative-ai": "^0.2.1",
+        "dotenv": "^16.4.5",
+        "fs": "^0.0.1-security",
+        "node-fetch": "^3.3.2"
+    },
+    "name": "node-js-gemini",
+    "type": "module",
+    "version": "1.0.0",
+    "main": "gemini.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}

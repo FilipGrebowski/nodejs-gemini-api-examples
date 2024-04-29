@@ -1,0 +1,15 @@
+.vscode/*
+
+# macOS:
+.DS_Store
+
+build/
+node_modules/
+.env
+.serverless
+secrets.json
+*.scss.d.ts
+
+# Log-files
+yarn-error.log
+report.*.json
